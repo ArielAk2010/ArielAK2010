@@ -30,8 +30,7 @@ Git • GitHub • VS Code • Figma • Canva
 ### 🎯 Current Goals
 
 - Build a full playable demo of my new Unity game  
-- Collaborate with artists & level designers  
-- Expand my portfolio on GitHub & LinkedIn  
+- Collaborate with artists & level designers
 
 ---
 
