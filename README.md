@@ -1,6 +1,6 @@
 # Hi There! 👋
 
-### I'm Ariel — Website Developer & Game Builder  
+### I'm Ariel - Website Developer & Game Builder  
 
 - 🕹️ I’m currently working on my story-based Unity game project.  
 - 🌱 I’m learning advanced Unity systems, C#, gameplay programming, and level design.
@@ -10,20 +10,20 @@
 - 💬 Ask me about **web development**, **Unity**, **game design**, and **indie dev pipelines**.
 - 📫 How to reach me:  
   **LinkedIn:** [Ariel Akerman](https://www.linkedin.com/in/arielakerman/)  
-- ⚡ Fun fact: I started building websites long before I started building games — and now I do both.
+- ⚡ Fun fact: I started building websites long before I started building games, and now I do both.
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Game Dev:**  
-Unity • C# • Blender (basic)
+Unity • C#
 
 **Web Dev:**  
 HTML • CSS • JavaScript • Python • Responsive Design  
 
 **Tools:**  
-Git • GitHub • VS Code • Figma • Canva  
+Git • GitHub • VS Code • Figma • Canva
 
 ---
 
